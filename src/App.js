@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          나도 삼성전자 취업하고싶다, 할 수 있다
+          Learn React
         </a>
       </header>
     </div>
